@@ -3,9 +3,8 @@
 Comparative study on KITTI-360 driving clips (static vs dynamic scenes).
 
 **Group:** Shreyas Anand, Aadi Chauhan, Arin Parsa  
-**Repo:** https://github.com/ShreyasxAnand/cs131final
 
-## Data layout (only what you need)
+## Data layout 
 
 ```
 CS131Final/
