@@ -1,0 +1,27 @@
+{
+  "sequence": "2013_05_28_drive_0000_sync",
+  "camera": "image_00_rect",
+  "clip_length": 201,
+  "clips": {
+    "static": {
+      "start_frame": 4650,
+      "end_frame": 4850,
+      "description": "low dynamic object count",
+      "frame_ids": [
+        4650,
+        4850
+      ],
+      "n_frames": 201
+    },
+    "dynamic": {
+      "start_frame": 9700,
+      "end_frame": 9900,
+      "description": "high traffic / pedestrians",
+      "frame_ids": [
+        9700,
+        9900
+      ],
+      "n_frames": 201
+    }
+  }
+}

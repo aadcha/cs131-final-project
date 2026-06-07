@@ -1,0 +1,10 @@
+numpy
+Pillow
+pycolmap
+scikit-image
+torch
+lpips
+
+# VGGT (install separately on Colab/GPU):
+# pip install git+https://github.com/facebookresearch/vggt.git
+# pip install transformers accelerate

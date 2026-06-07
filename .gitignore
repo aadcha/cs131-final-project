@@ -1,0 +1,34 @@
+# Full-sequence data (deleted locally; do not re-commit)
+2013_05_28_drive_0000_sync/
+data_3d_bboxes/
+
+# Pipeline outputs (regenerate)
+colmap_out/
+vggt_out/
+sg_data/
+sg_out/
+sg_configs/
+gs_out/
+renders/
+metrics_results.json
+
+# Transient run logs
+*_run.log
+
+# macOS
+.DS_Store
+
+# Editor state
+.idea/
+.vscode/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.db
+.venv/
+venv/
+
+# Optional: keep clips out of git if too large for GitHub (uncomment)
+# clips/
